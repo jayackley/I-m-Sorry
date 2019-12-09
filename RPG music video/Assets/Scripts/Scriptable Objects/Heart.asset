@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7496464d34d4be38832638b3a093ae, type: 3}
+  m_Name: Heart
+  m_EditorClassIdentifier: 
+  objectName: heart
+  sprite: {fileID: 21300000, guid: 779c51782da5847a2b89b2e188a5f35c, type: 3}
+  quantity: 1
+  stackable: 0
+  itemType: 1

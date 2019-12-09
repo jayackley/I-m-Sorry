@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b3d28ebb591d4df4bbab9ac26770c98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitPoints: {fileID: 11400000, guid: b7bde5defedec46bba567e73b25e69c1, type: 2}
+  - character: {instanceID: 0}
+  - meterImage: {instanceID: 0}
+  - hpText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
