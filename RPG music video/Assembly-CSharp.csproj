@@ -72,22 +72,22 @@
     <Compile Include="Assets\Scripts\Scriptable Objects\HitPoints.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Item.cs" />
     <Reference Include="Cinemachine">
-      <HintPath>/Users/jayackley/Desktop/I'm Sorry Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>/Users/jayackley/Desktop/Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/jayackley/Desktop/I'm Sorry Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/jayackley/Desktop/Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/jayackley/Desktop/I'm Sorry Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/jayackley/Desktop/Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/jayackley/Desktop/I'm Sorry Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/jayackley/Desktop/Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>/Users/jayackley/Desktop/I'm Sorry Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>/Users/jayackley/Desktop/Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/jayackley/Desktop/I'm Sorry Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/jayackley/Desktop/Git/I'm Sorry/RPG music video/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
